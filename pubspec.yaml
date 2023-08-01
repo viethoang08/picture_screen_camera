@@ -1,7 +1,7 @@
 name: picture_screen_camera
 description: lib by azota team.
-version: 1.1.0
-repository: https://github.com/viethoang08/camera_screen_picture
+version: 1.1.1
+repository: https://github.com/viethoang08/picture_screen_camera
 
 environment:
   sdk: '>=3.0.5 <4.0.0'
